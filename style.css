@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Abril Fatface', cursive;}
+  body{
+    text-align:center;
+    background-color:#fc777d;
+  }
+  button{
+    padding:10px;
+    border-radius:10px;
+    border-color:black;
+    color:#04db0c;
+    background-color:#0d0d0d;
+  }
+  img{
+    border-radius:5px;
+    width:400px;
+  }
